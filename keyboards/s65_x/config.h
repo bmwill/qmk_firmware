@@ -22,7 +22,7 @@
 
 /* number of backlight levels */
 #define BACKLIGHT_PIN B7
-#define BACKLIGHT_LEVELS 3
+#define BACKLIGHT_LEVELS 9
 
 #define RGB_DI_PIN D3
 #define RGBLIGHT_ANIMATIONS
